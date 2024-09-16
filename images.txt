@@ -6,3 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 redis:7-alpine
+postgres:16-alpine
