@@ -7,3 +7,5 @@
 
 redis:7-alpine
 postgres:16-alpine
+sismics/docs:v1.11
+postgres:13.1-alpine
